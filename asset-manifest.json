@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jovac_01/static/css/main.9f6daf8c.css",
-    "main.js": "/jovac_01/static/js/main.49945f80.js",
-    "static/js/453.d6f65d96.chunk.js": "/jovac_01/static/js/453.d6f65d96.chunk.js",
-    "static/media/LoaderSpinner.gif": "/jovac_01/static/media/LoaderSpinner.55d157a06a5e3bbf4f7b.gif",
-    "index.html": "/jovac_01/index.html",
-    "main.9f6daf8c.css.map": "/jovac_01/static/css/main.9f6daf8c.css.map",
-    "main.49945f80.js.map": "/jovac_01/static/js/main.49945f80.js.map",
-    "453.d6f65d96.chunk.js.map": "/jovac_01/static/js/453.d6f65d96.chunk.js.map"
+    "main.css": "/Jovac_01/static/css/main.9f6daf8c.css",
+    "main.js": "/Jovac_01/static/js/main.835adc80.js",
+    "static/js/453.d6f65d96.chunk.js": "/Jovac_01/static/js/453.d6f65d96.chunk.js",
+    "static/media/LoaderSpinner.gif": "/Jovac_01/static/media/LoaderSpinner.55d157a06a5e3bbf4f7b.gif",
+    "index.html": "/Jovac_01/index.html",
+    "main.9f6daf8c.css.map": "/Jovac_01/static/css/main.9f6daf8c.css.map",
+    "main.835adc80.js.map": "/Jovac_01/static/js/main.835adc80.js.map",
+    "453.d6f65d96.chunk.js.map": "/Jovac_01/static/js/453.d6f65d96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f6daf8c.css",
-    "static/js/main.49945f80.js"
+    "static/js/main.835adc80.js"
   ]
 }
